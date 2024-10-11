@@ -1,4 +1,10 @@
 # DeathFriends
+
+Contrôle:
+Flèche du haut pour Sauter
+Flèche de droite pour aller à droite
+Flèche de gauche pour aller à gauche
+
 1. Concept
    1. Plateformer Dead Cells Like
    2. Style Happy Tree Friends like
